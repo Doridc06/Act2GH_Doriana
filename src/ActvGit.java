@@ -5,6 +5,8 @@ public class ActvGit {
     final int LONGITUDNUMEROS = 20;
     final int INICIO = 1;
     final int FIN = 10;
+    
+    System.out.print("NUMEROS ALEATORIOS: ");
 
     int[] numeros = new int[LONGITUDNUMEROS];
 
