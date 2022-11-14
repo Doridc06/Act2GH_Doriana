@@ -2,7 +2,7 @@ public class ActvGit {
 
   public static void main(String[] args) {
 
-    final int LONGITUDNUMEROS = 20;
+    final int LONGITUDNUMEROS = 30;
     final int INICIO = 1;
     final int FIN = 10;
 
